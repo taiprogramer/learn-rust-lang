@@ -18,6 +18,9 @@ impl User {
     }
 }
 
+// tuple struct
+struct RGB(u8, u8, u8);
+
 fn main() {
     let a = User {
         username: String::from("user"),
@@ -25,6 +28,11 @@ fn main() {
     };
     println!("{:?}", a); // Print in Debug mode
     println!("{:#?}", a); // Print in Debug mode but more readable
+
     let b = User::new_user("user", "pass");
     println!("password of user user is: {}", b.get_pass());
+
+    let c = RGB(255, 0, 255);
+    println!("R: {}, G: {}, B: {}", c.0, c.1, c.2);
 }
+
