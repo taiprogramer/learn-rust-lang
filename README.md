@@ -5,3 +5,7 @@
 - [Struct](./struct.rs)
 - [Enum](./enum.rs)
 
+## # Commom data structures in Standard Library
+
+- [Vec](./vec.rs)
+
