@@ -8,4 +8,5 @@
 ## # Commom data structures in Standard Library
 
 - [Vec](./vec.rs)
+- [String](./string.rs)
 
