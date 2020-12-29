@@ -3,3 +3,5 @@
 ## # Core
 
 - [Struct](./struct.rs)
+- [Enum](./enum.rs)
+
