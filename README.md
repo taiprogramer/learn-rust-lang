@@ -9,4 +9,5 @@
 
 - [Vec](./vec.rs)
 - [String](./string.rs)
+- [HashMap](./hash_map.rs)
 
