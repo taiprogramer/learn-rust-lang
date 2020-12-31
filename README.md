@@ -11,3 +11,7 @@
 - [String](./string.rs)
 - [HashMap](./hash_map.rs)
 
+## # Error handling
+
+- [Panic](./panic.rs)
+
